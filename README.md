@@ -1,41 +1,33 @@
 # FEND_Classic_Arcade_Game_Clone
 
 ## Project Overview
-FEND_Classic_Arcade_Game_Clone is a frontend project that recreates the classic arcade game experience. This project is built using HTML and JavaScript, providing an interactive web-based game. It is an excellent opportunity for web developers looking to delve into the world of game development and sharpen their skills in automation and CLI tools.
+
+Recreate the classic arcade game experience with FEND_Classic_Arcade_Game_Clone. This project is a frontend implementation that leverages HTML and JavaScript to build an engaging, interactive web-based game. It's a perfect project for web developers looking to explore game development and enhance their skills in automation and CLI tools. Topics covered include automation, frontend, HTML, automate, CLI, command-line, JavaScript, JS, markup, node, script, shell, task, terminal, web.
 
 ## Setup and Installation
-To get started with this project, follow these steps:
 
-1. Clone the repository to your local machine using the following command:
-    ```
-    git clone https://github.com/username/FEND_Classic_Arcade_Game_Clone.git
-    ```
-    Replace 'username' with the actual GitHub username.
+Before you start, ensure you have Node.js installed on your machine. If not, you can download it from [here](https://nodejs.org/en/download/).
 
-2. Navigate to the project directory:
-    ```
-    cd FEND_Classic_Arcade_Game_Clone
-    ```
-
-3. Open the `index.html` file in your preferred web browser to start the game.
+1. Clone this repository to your local machine using `git clone https://github.com/user/FEND_Classic_Arcade_Game_Clone.git`
+2. Navigate to the project directory `cd FEND_Classic_Arcade_Game_Clone`
+3. Install the necessary dependencies with `npm install`
 
 ## Usage Examples
-Once you've opened the game in your browser, you can start playing immediately. Use the arrow keys to move your character around the screen, avoiding enemies and collecting items for points. The aim is to score as many points as possible before the time runs out.
+
+Once the setup and installation are complete, you can start the game by running `npm start` in the terminal. The game will open in your default web browser. Use the arrow keys to move the character in the game. 
 
 ## Contribution Guidelines
+
 We welcome contributions from the community. If you'd like to contribute, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes in your branch.
-4. Submit a pull request with a detailed description of your changes.
+1. Fork the project repository.
+2. Create a new branch for your features or bug fixes.
+3. Commit your changes in your branch.
+4. Push your changes to your fork.
+5. Submit a pull request to the main repository.
 
-Please note that this project uses the following technologies and tools, so knowledge in these areas is beneficial:
-
-- HTML
-- JavaScript
-- Automation
-- CLI tools
+Before submitting your pull request, please ensure your code adheres to the existing style to maintain consistency.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more information.
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
